@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="student.xsl"?>
+<Student xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="student.xsd">
+<student no="123">
+<name>AAAA</name>
+<email>AAAA@gmail.com</email>
+<marks>95</marks>
+<class>S-1</class>
+</student>
+<student no="124">	
+<name>BBBB</name>
+<email>BBBB@gmail.com</email>
+<marks>90</marks>
+<class>S-7</class>
+</student>
+<student no="125">
+<name>CCCC</name>
+<email>CCCC@gmail.com</email>
+<marks>93</marks>
+<class>S-3</class>   
+</student>
+<student no="126">
+<name>DDDD</name>
+<email>DDDD@gmail.com</email>
+<marks>85</marks>
+<class>S-10</class>     
+</student>
+<student no="127">
+<name>EEEE</name>
+<email>EEEE@gmail.com</email>
+<marks>65</marks>
+<class>S-3</class>      
+</student>
+</Student>
